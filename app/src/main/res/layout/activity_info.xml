@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Info"
+    android:background="@drawable/fondo">
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/adamina"
+        android:gravity="center"
+        android:text="CREDITOS"
+        android:textColor="@color/cardview_light_background"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/adamina"
+        android:gravity="center"
+        android:paddingTop="30dp"
+        android:text="SARA JUDITH RAMIREZ UJPÁN"
+        android:textColor="@android:color/background_dark"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/adamina"
+        android:gravity="center"
+        android:text="19-8926"
+        android:textColor="@android:color/background_dark"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/adamina"
+        android:gravity="center"
+        android:text="4to SEMESTRE INEGNIERIA EN SISTEMAS"
+        android:textColor="@android:color/background_dark"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/adamina"
+        android:gravity="center"
+        android:text="PROGRAMACIÓN II"
+        android:textColor="@android:color/background_dark"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/adamina"
+        android:gravity="center"
+        android:text="INGENIERO LUIS ALFREDO RODRIGUEZ"
+        android:textColor="@android:color/background_dark"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/adamina"
+        android:gravity="center"
+        android:paddingTop="20dp"
+        android:text="UMG APP V1.0"
+        android:textColor="@android:color/background_dark"
+        android:textSize="20sp" />
+
+</LinearLayout>

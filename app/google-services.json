@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966601185726",
+    "firebase_url": "https://umgapp-6aabb.firebaseio.com",
+    "project_id": "umgapp-6aabb",
+    "storage_bucket": "umgapp-6aabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966601185726:android:661fc531eb1148b78f81ef",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966601185726-qtcvcn9t0n8p5jvf8d02k997knte1540.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "b6f05072254edabe773180e522603cfbba93b06e"
+          }
+        },
+        {
+          "client_id": "966601185726-5sgdu5l6no1mqdvbfkdq63lu6sopt2v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjdRsAs91HtzgsK3xrvLFuF-_jRCP16Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966601185726-5sgdu5l6no1mqdvbfkdq63lu6sopt2v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
